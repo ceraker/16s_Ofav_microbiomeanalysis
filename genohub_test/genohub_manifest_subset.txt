@@ -1,0 +1,11 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+106S216	/data/pradalab/ceraker/16s/clean_reads/106_S216_R1_001.fastq.gz.clean.fastq.gz	/data/pradalab/ceraker/16s/clean_reads/106_S216_R2_001.fastq.gz.clean.fastq.gz
+137S65	/data/pradalab/ceraker/16s/clean_reads/137_S65_R1_001.fastq.gz.clean.fastq.gz	/data/pradalab/ceraker/16s/clean_reads/137_S65_R2_001.fastq.gz.clean.fastq.gz
+1S173	/data/pradalab/ceraker/16s/clean_reads/1_S173_R1_001.fastq.gz.clean.fastq.gz	/data/pradalab/ceraker/16s/clean_reads/1_S173_R2_001.fastq.gz.clean.fastq.gz
+222S203	/data/pradalab/ceraker/16s/clean_reads/222_S203_R1_001.fastq.gz.clean.fastq.gz	/data/pradalab/ceraker/16s/clean_reads/222_S203_R2_001.fastq.gz.clean.fastq.gz
+31S127	/data/pradalab/ceraker/16s/clean_reads/31_S127_R1_001.fastq.gz.clean.fastq.gz	/data/pradalab/ceraker/16s/clean_reads/31_S127_R2_001.fastq.gz.clean.fastq.gz
+40S13	/data/pradalab/ceraker/16s/clean_reads/40_S13_R1_001.fastq.gz.clean.fastq.gz	/data/pradalab/ceraker/16s/clean_reads/40_S13_R2_001.fastq.gz.clean.fastq.gz
+54S190	/data/pradalab/ceraker/16s/clean_reads/54_S190_R1_001.fastq.gz.clean.fastq.gz	/data/pradalab/ceraker/16s/clean_reads/54_S190_R2_001.fastq.gz.clean.fastq.gz
+63S98	/data/pradalab/ceraker/16s/clean_reads/63_S98_R1_001.fastq.gz.clean.fastq.gz	/data/pradalab/ceraker/16s/clean_reads/63_S98_R2_001.fastq.gz.clean.fastq.gz
+81S162	/data/pradalab/ceraker/16s/clean_reads/81_S162_R1_001.fastq.gz.clean.fastq.gz	/data/pradalab/ceraker/16s/clean_reads/81_S162_R2_001.fastq.gz.clean.fastq.gz
+94S100	/data/pradalab/ceraker/16s/clean_reads/94_S100_R1_001.fastq.gz.clean.fastq.gz	/data/pradalab/ceraker/16s/clean_reads/94_S100_R2_001.fastq.gz.clean.fastq.gz
