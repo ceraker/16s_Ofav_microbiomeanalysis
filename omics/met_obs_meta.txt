@@ -1,0 +1,333 @@
+otuID	smiles	structure_source	kingdom	superclass	class	subclass	direct_parent
+6cb9877dd737e2c943bf72ba0f114e30	CCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Nitrobenzenes	Nitrophenyl ethers
+35c908e555dfb3ab221f68183fd21d5b	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+5d4fc8b6a0726b0f1257921addf300c1	CC1=CC(=C(C=C1)OC)NC(=O)C(=O)NNC(=O)C2=CC=CO2	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Alpha amino acid amides
+a84abbad64d4daea0d5c0b7c86950523	CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)O)(CO)O	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Streptamine aminoglycosides
+8cdaa662803d730cd3d608604b8ccc1b	COC1=CC=C(C=C1)N2C(=O)C(NC2=O)CC(=O)NCCC(=O)OC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+9d56e90a5fae5721052d961ef7e7d2a5	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+68419107dd2c1d6cabda9631e27db1d0	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+47c0cbbc8f2c445fd8af445c4785f491	CCCCCCCCCCCC(=O)NCCC[N+](C)(C)CC(=O)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Alpha amino acids
+1b36dcb100265ef492b2651e68fdca1e	CC(C(C(=O)NC(CO)C(=O)O)NC(=O)C(CC1=CC=CC=C1)NC(=O)C(C)N)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Oligopeptides
+5f2406154fc8ef0127f3bcc3bf4cbed0	CCN(CCCOC(=O)C1=CC(=C(C(=C1)OC)OC)OC)CCC2=CC=CC=C2OC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+1357c3aa1b8ab3debd38b96ad1787d01	C1=C(C=NC=C1C(=O)NCCO[N+](=O)[O-])C(=O)NCCO[N+](=O)[O-]	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+b79951d6c761e531a05659cb65255bcd	CCC(C)C(C(=O)O)NC(=O)C(CO)NC(=O)C(CC1=CNC2=CC=CC=C21)NC(=O)C(CC(=O)O)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+01678bcea2b58f4934ca047a3d8d6b97	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+85913f0c497150296299b5868cc81806	CC(=O)OCC1C(C(C(O1)N2C(=O)N(C(=O)C=N2)CC3=CC=CC=C3)OC(=O)C)OC(=O)C	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosylamines
+048321e811e39faa7203a044f5b374ce	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+0cf57c36f015582c5f41d85dc63678ed	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+10d48e390e0a1f0ae7fbe497f944e4b7	CC(C)C(C(=O)O)NC(=O)CN1C=NC2=CC(=C(C=C2C1=O)OC)OC	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Peptides
+00056bcaf3eb04f1d988da98936bc1d5	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+4a7a37ca8fd0ffe04b87dc50e0ed8f0b	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+d37584acc79096e465d0a04034ff3770	C1=CC(=C(C=C1[N+](=O)[O-])OCCO)OCCO	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Nitrobenzenes	Nitrophenyl ethers
+b8103800f6b00ea71a1868e3723ceba0	CCCCCCCCCCCCCCCCCC(=O)NC(CC)[N+](C)(C)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+2041447fd98a70ab535e2ce40ef988a3	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+0a2a1ed7a26ad20fd32c3f112f9bce81	CC(=O)OCC1=C([N+](=O)C2=CC=CC=C2N1[O-])COC(=O)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+0aeb72e1e54285fe1d3b4d69cc774cf8	CCOC1=CC=CC=C1NC2=C(C=C(C=C2)[N+](=O)[O-])[N+](=O)[O-]	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Aniline and substituted anilines	Dinitroanilines
+5722566b201a860939f1b187eb4f520c	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+dc3f369ac758fe2dfd56624439e7fa96	CC1=C(N2C(C(C2=O)NC(=O)C)SC1)C(=O)OC	CSIFingerID	Organic compounds	Organoheterocyclic compounds	Lactams	Beta lactams	Cephalosporins
+2fcac9963357a409f986235e5799fa7e	C1CC(=O)N(C1=O)OC(=O)CCCCCCCCC(=O)ON2C(=O)CCC2=O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives
+2275abcf0f25a863d6174c7ac165e759	C(C1C(C(C(O1)N2C3=C(C(=O)NC(=N3)N)NC2=O)O)O)O	CSIFingerID	Organic compounds	"Nucleosides, nucleotides, and analogues"	Purine nucleosides	unclassified	Purine nucleosides
+bb04f0db97606a5e716419b3cc77aaaa	CC(=O)OCC1=C([N+](=O)C2=CC=CC=C2N1[O-])COC(=O)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+0b162ce62286b5bc182e903c1c51c58d	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+2263102ff78929e8965a650c276b888e	CCCNC(=O)CNC(=O)COC(=O)C1=C(C=CC(=C1)[N+](=O)[O-])N(C)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+1e38bcce11dfc0a55620c4f6a317b547	CN1C(=O)C=C(N(C1=O)CC2=CC(=C(C=C2)OC)[N+](=O)[O-])OC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+3eb58b59d1e08d00887338a5d28e8c83	C1=C(C=NC=C1C(=O)NCCO[N+](=O)[O-])C(=O)NCCO[N+](=O)[O-]	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+9567323bb2aba079837b3d6b60688068	CC1CCC2C(C(OC3C24C1CCC(O3)(OO4)C)OC(=O)CCC(=O)NC(CC5=CNC6=CC=CC=C65)C(=O)OC)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+1cc57818dc10dfbe0c44cf2c3ccd5714	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+0cdef895b9b57b30365ccfea3fb0fb98	C1COCCN1CC(CN2CCOCC2)NC(=O)C3=CC(=CC(=C3)OC4C(C(C(C(O4)CO)O)O)O)[N+](=O)[O-]	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Phenolic glycosides
+e7c659a8042dca810b02c0336c263240	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+070509adb6a8c7f66ceb5a3c5a981c8a	CC1=CC(=C(C=C1)OC)NC(=O)C(=O)NNC(=O)C2=CC=CO2	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Alpha amino acid amides
+0a823fd294075990a4080100d7562a1c	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+049e9985c738df5d534704373d2e90e9	CCCCCCCCC=CCCCCCCCCCCCC(=O)N	CSIFingerID	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty amides	Fatty amides
+677fa5eead25107508528d46f9ecee67	C1CCC(C1)(CC(=O)NC2C=C(CC(C2O)O)C(=O)NCC(=O)N)CC(=O)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	N-acyl-alpha amino acids and derivatives
+e3b66475404fea0a967dabb487e759f7	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+4fefd3ddfb9c3de1651ad4517ab91a96	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+c5ad7a91d56f32bffe890a9e8e3c4d8f	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+4ea7a79e165ab1c732031f61816c74f9	COC1=CC=C(C=C1)N2C(=O)C(NC2=O)CC(=O)NCCC(=O)OC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+ffe5ab717bc0d1c1a6d5a2511a416836	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+611067f0419045098022d750354f6eb0	C1CC(=O)N(C1=O)OC(=O)CCCCCNC(=O)CCN2C(=O)C=CC2=O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+74d2a502e6de0b62163cf27f713c5b9f	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+1492f7055396c89a9efba8282da334d4	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+d66430d06d45bd83015cd4e272be435e	C1=CC(=C(C=C1NCCO)[N+](=O)[O-])N(CCO)CCO	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+4cc7061fcd5b4fcd48680f734e8ded06	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+ddff848f38eb97ac2ae2c0101fadd1ba	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+dcb96508b4db1d9e860541fb68f7b1f5	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+baca416990c75e3ce98b889c7cb02f18	C[N+](C)(C)CC(=O)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Alpha amino acids
+cea0c70a86c95c56f424b2c317562310	CCOC1=CC=CC=C1NC2=C(C=C(C=C2)[N+](=O)[O-])[N+](=O)[O-]	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Aniline and substituted anilines	Dinitroanilines
+bdc8f6b36a8a2ae56de3aee01c55af69	CCCCCCCCCCCCOC(=O)CCSCCC(=O)OCCCCCCC(CCCCC)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives
+e1fa77b8622d102b4f0ea7f5b64183ab	CCCNC(=O)CCCC1CCC2(C1(C(CC3C2C(CC4(C3(CCC(C4)O)C)C)O)O)C)C	CSIFingerID	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids	7-hydroxysteroids
+dba177c5454b14919a45c53d874d93f7	CC(=O)OCC1C(C(C(C(O1)OC)OC(=O)C)(C#N)C#N)OC(=O)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+35a0eb4b2b5be01f38f5a692222650cb	C1=CC(=CC=C1CC(C(=O)NC(CC(=O)N)C(=O)O)N)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Dipeptides
+219ae21f321364e8fb2f83d82fe9b22a	CC(CC1=CC=CC=C1)NC2=C3C(=NC=N2)N(C=N3)C4C(C5C(O4)COP(=O)(O5)O)O	CSIFingerID	Organic compounds	"Nucleosides, nucleotides, and analogues"	Purine nucleotides	Cyclic purine nucleotides	"3',5'-cyclic purine nucleotides"
+351689a6518d0ff0dcdcf0c8d4716821	CC(=O)NC1=C2C(=CC=C1)N(N=N2)C3C(C(C(C(O3)CO)O)O)O	CSIFingerID	Organic compounds	"Nucleosides, nucleotides, and analogues"	Nucleoside and nucleotide analogues	1-pyranosylbenzotriazoles	1-pyranosylbenzotriazoles
+b7d95e87ceb4f61b19f11fa8b601599b	C1=CC=C(C=C1)CC(CN(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+e5087041292954306387f0f8d4ea6a20	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+911b1952030fcf48e5b8047db1475214	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+cc27e49038ff84139ca6d2fa4b52e643	CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CC3=CC=CC=C3CC2C(=O)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Dipeptides
+fdafb032a5ff3bf2da7f16976377f717	C1CC(=O)N(C1=O)OC(=O)CCCCCCC(=O)ON2C(=O)CCC2=O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives
+604a0baf6202574af957de3e97a21ee4	C1=CC(=CC=C1CC(C(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(CCCCN)N)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Oligopeptides
+08029cb9a88951ea50b93d0a9e210af2	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+80dc46738cbb26e77bd9c842d10f8d24	C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)NC(=O)CC(=O)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	N-acyl-alpha amino acids
+27319161c39e618a5b57f48b4510a903	CC(C)C(C(=O)O)NC(=O)CN1C=NC2=CC(=C(C=C2C1=O)OC)OC	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Peptides
+c60d4ab5e2efadca90143bb7d4415fd1	CNC(=O)C(=O)NS(=O)(=O)C1=CC=C(C=C1)NC(=O)C(=O)NC2CCCCC2	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+12ad92c33b307bfdf509d684b9f2fa14	CCOC1CCC(=O)N1S(=O)(=O)C2=CC=C(C=C2)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+8f824bd0b738c65aa209929ab1666660	CCOC(=O)CCC(C(=O)OCC)NC(=O)C1=CC=C(C=C1)[N+](=O)[O-]	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+50c4567910430a7cbcc0799315924ec9	CC(C(C(C)O)(C(=O)OCC1=C(C=CC(=C1)O)NC(=O)CCC(C(=O)O)N)O)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Glutamine and derivatives
+9cd1aa544247e876f4dc6e2e454105ea	CN1C2=C(C(=O)N(C1=O)C)N(C(=N2)N3CCOCC3)CCCNCC(C4=CC(=C(C=C4)O)O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+97411ae93db131250771fe2ae897e5cc	C1CC(=NC#N)N(C1)CC(=O)NC=NNC2=C(C=C(C=C2)[N+](=O)[O-])[N+](=O)[O-]	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+bfcbae5fb0e96ee86398f66514235023	C(C1C(C(C(C(O1)OCC(C(C(C(C(C=O)OC2C(C(C(C(O2)C(=O)O)O)O)O)O)O)O)O)N)O)O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+a8ba90ee97d6ed2aa4aa6d6163c1fdca	CC(C)OCC(CN1C2=C(N=C1N=NC3=C(NC(=O)NC3=O)O)N(C(=O)NC2=O)C)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+a0ba082a7067eefcdc4a672dfea6e41f	C1COCCN1CC(CN2CCOCC2)NC(=O)C3=CC(=CC(=C3)OC4C(C(C(C(O4)CO)O)O)O)[N+](=O)[O-]	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Phenolic glycosides
+166e73cc80d4042d1f4c923db56fd924	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+ede6f8ab074b682d1dd8458a8ad83b55	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+837d73077ea37042794d7c79cbbd55fa	C(CCCN1C(=O)N(C(=O)OC1=O)CCCCCCN=C=O)CCN=C=O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+ed8428135e4ecbe8b7d7216c29fb9769	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+c52404d9a3cd381886113b9c11ed4f51	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+d7c40dfce5467e2a0c850c0e786e501d	CC(C(=O)NC(C)C(=O)O)NC(=O)C1=CC2=CC(=C(C(=C2N1C)OC)OC)OC	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Dipeptides
+d18d3a541861ad68fd67928cbb1d7056	CC(C)CC(C(=O)NC(CO)C(C(C(C(=O)NC(CC(=O)O)C1=CC=CC=C1)O)O)O)N	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Leucine and derivatives
+a498df6cab3feb774fb9570fd7143c3c	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+34a35d1c9e1446100a5fab7b24ab8181	CCCCCCCCC=CCCCCCCCCCCCC(=O)N	CSIFingerID	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty amides	Fatty amides
+93bbef6c12dff490949e207ce7b57c97	CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CC3=CC=CC=C3CC2C(=O)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Dipeptides
+32facb1052b679b352451d2d29f72bb4	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+031bc75c4d162ff7bc8bf302eb73565d	CCCCCCCCCCCCCC(C(CO)N)O	CSIFingerID	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	"1,2-aminoalcohols"
+b8347a69a4731d052daa6c65010b6db5	CNC1=NC(=C2C(=N1)N(C=N2)C3CC(C(O3)COP(=O)(O)O)O)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+1505a548e433fc399176c1c4732713e0	COC1=C(C=C2C(=C1)C(=O)N(C=N2)CC(=O)NCCC(=O)O)OC	CSIFingerID	Organic compounds	Organic acids and derivatives	Peptidomimetics	Hybrid peptides	Hybrid peptides
+34f6fc954d993f90ccbc3c490e09b54b	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+4a617471e7e9ef87a5dddaec1652f5f6	C1CN(CC2=CC=CC=C21)C(=NOC3C(C(C(C(O3)C(=O)O)O)O)O)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+8f867561ae62a0498db0c55fb0edc934	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+060045d7682d9df6168c3146fa0967e4	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+26bd75b4b7bd76cf582f304494bf1e1a	C1C(C(OC1N2C3=NC=NC(=C3N=N2)N)COP(=O)(O)O)O	CSIFingerID	Organic compounds	Organoheterocyclic compounds	Triazolopyrimidines	unclassified	Triazolopyrimidines
+3bef82ecab49f45ea30d57a4c26ef5c6	COC(=O)C1=NC=CC(=C1)C(=O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+228e5bdfe0aa709095a2f688724d7767	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+df015bfa17b41b4ceceab90aedfb11ff	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+e30241afb5c9e652ff7f1d838be9093a	C1=CC(=CC=C1C=O)OC2=CC=C(C=C2)[N+](=O)[O-]	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+523f9e162966438a4d1482831f020cbe	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+559615ddb1e1b56c99be8558f837413e	C1COCCN1CC(CN2CCOCC2)NC(=O)C3=CC(=CC(=C3)OC4C(C(C(C(O4)CO)O)O)O)[N+](=O)[O-]	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Phenolic glycosides
+26d5b41dd48776484c863a05faf3f2b1	CCC(C)C(C(=O)OC)NC(=O)COC(=O)C1=C(C=CC(=C1)[N+](=O)[O-])N(C)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+8b36aa1bae030e181a2d4e09ded8dbbb	C1CC(=O)N(C1=O)OC(=O)CCCCCCC(=O)ON2C(=O)CCC2=O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives
+19e33db1ab79a4d1f264333c5a983b79	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+f63c6aad20ccc0bc4e4fcf08d4391d72	CNC(=O)OC1=CC=CC(=C1)NC(=O)OCCOC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+7856700e0ebd0f63ea3ec7d98f7412c5	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+ad76d1bbfa002fc908d1d302cdc3ff98	CCCCCCCCCCCCCCCC(=O)NCCNC(=O)CCCCCCCCCCCCCCC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+89c938db8d9264a11ad5d9e8453a5f22	C1COCCN1CC(CN2CCOCC2)NC(=O)C3=CC(=CC(=C3)OC4C(C(C(C(O4)CO)O)O)O)[N+](=O)[O-]	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Phenolic glycosides
+d21f1b5abbbcc77cb8514d558bf4d27f	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+260d08fee1d28cb66e73473a07389044	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+9b174cda29e888577f6942e5dd5aaf6f	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+b7e9f2010a5a4fa0682360f66ce9c810	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+4c241f0f7beb058db097f64adf1d3627	CCOC(=O)C1=C(OC2=C1C=C(C=C2[N+](=O)[O-])[N+](=O)[O-])C(C)C	CSIFingerID	Organic compounds	Organoheterocyclic compounds	Benzofurans	unclassified	Benzofurans
+6c2469877476869511d078391e3bfa97	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+76cc1cd67d19d8dc6e5ee11117ea0e94	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+e08aed2387f8d8d3b7719d1e248fa978	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+23e2400d78108ea874d84eb112b65afe	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+3d3670c019e3d375675001f846e23cf8	C1CC(=O)NC1C(=O)NC(CCC(=O)N)C(=O)NC(CC(=O)O)C(=O)NCC(=O)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Peptidomimetics	Hybrid peptides	Hybrid peptides
+be6d75e0372aa8fc3a06cb6b1c29985f	C1=CC(=CC=C1N=NC2=C(N(C(=S)N=C2N)N)N)[N+](=O)[O-]	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Nitrobenzenes	Nitrobenzenes
+fcf92ee895911775032f63c36e56934a	CC1=C(N2C(=O)C3=C(N(C2=N1)C)N(C=N3)C4C(C(C(O4)CO)O)O)CC(C(C(=O)O)NC(=O)OC)O	CSIFingerID	Organic compounds	"Nucleosides, nucleotides, and analogues"	Nucleoside and nucleotide analogues	unclassified	Nucleoside and nucleotide analogues
+e88936548502e3b4077282ba9c540efe	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+4628a235f12ab9377779369e06d0e8a2	C1CC(=O)N(C1=O)OC(=O)CCCCCNC(=O)CCN2C(=O)C=CC2=O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+c0b8ab6e294394f6d6031669e1fa3b0b	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+718884be6ea446cd00077da4d330d8e2	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+34833c5e758825dfd60240fa8ce2ee50	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+2beb56080cfe7c5c819243a9e09b11ea	CNC(=O)CN(C)C(=O)COC(=O)C1=C(C=CC(=C1)[N+](=O)[O-])N(C)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+459bf58ca2c838be2859909166f4bd8e	CC(C)C(C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(CO)C=O)NC(=O)C(C)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+be76abf907294ba5e27bead6c7a161a5	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+8c313c9d59fc1697a7b47ed4c536ba45	CC(C(C(=O)NC(CO)C(=O)O)NC(=O)C(CC1=CC=CC=C1)NC(=O)C(C)N)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Oligopeptides
+3c88917286cd7791afc8f91df91fb4ec	CN1C2=C(C=C(C=C2)C(CC(=O)OC)C3=C(C(=CNC3=O)C(=O)OC)O)N(C1=O)C	CSIFingerID	Organic compounds	Organoheterocyclic compounds	Benzimidazoles	unclassified	Benzimidazoles
+d5291509461a2bb206d546dce6967315	CCC(=O)NC(CCC(=O)NC1CCCNC1=O)C(=O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+902bd5cc9b3bfd7174cf11aa3c302a1b	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+ea442c93c7f8208e7cb8c77a9bedd2c2	CC1=CC=CC=C1C(=O)OC2C(C(C(C(O2)C(=O)O)O)O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+ef075a177e6557c1fa39327e961f4632	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+d32547df5dc908df00e606c6da6915c2	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+10e5a1737cf7d95a92d51a5f3ce99add	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+bc13a174cdaf04564d81dab5feb338ef	CC1=C(C(=O)NN1)C(CC(=O)OC)C2=CC3=CC4=C(C=C3NC2=O)OCO4	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+30273a01e2f871752acf1dfd9364b74e	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+c9bdba35d3acfaad76c53bd137f29d72	CC(C(C(=O)NC(CO)C(=O)O)NC(=O)C(CC1=CC=CC=C1)NC(=O)C(C)N)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Oligopeptides
+4b294e372996ce9891086169c9d116d1	CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=C(O2)[N+](=O)[O-])C(=O)OC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+36bcf44850a9abaa03ef2ee725ec765e	CC(C)C(C(=O)O)NC(=O)CN1C=NC2=CC(=C(C=C2C1=O)OC)OC	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Peptides
+7f1d8c4451eb52641f7453c17696bf6c	CCNC(=O)CN(CC)C(=O)COC(=O)C1=C(C=CC(=C1)[N+](=O)[O-])N(C)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+cf3085efff6d57d72944424e6e412633	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+9bbe06fb247b933d10f35a2220a0b5d4	C1=CC(=CC=C1CC(C=O)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CC3=CC=C(C=C3)O)N)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+965b2e018609a1a0e3cd887a9262426f	CC1=C(C(=NC=C1COP(=O)(O)O)CCC#C)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+47394af1100e242abbd1e1ce09b2becc	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+8091a191742e9d758effa9c221752de5	CCCNC(=O)CNC(=O)COC(=O)C1=C(C=CC(=C1)[N+](=O)[O-])N(C)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+30c48a661e051c9f7022f881c8ee2761	CC1=C(N2C(C(C2=O)NC(=O)C)SC1)C(=O)OC	CSIFingerID	Organic compounds	Organoheterocyclic compounds	Lactams	Beta lactams	Cephalosporins
+9722db60e77619e7eebb81db4b226f7f	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+677623cd58f63210d5b2d809274c3776	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+354fad405f5e1dde1fe20ce6c6d8f5bf	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+1a54c02a87b572e73564f6ce8182e192	CCC=CCC=CCC=CCCCCCCCC(=O)OCC(CO)O	CSIFingerID	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives	Lineolic acids and derivatives
+389311edfac9459fc972d6c746eb20dc	C1CC(=O)N(C1=O)OC(=O)CNC(=O)OCC2=CC=CC=C2	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+56443aa3849f20e0bea2762c5e2cb82a	CCOP(=O)(OCC)OCC	CSIFingerID	Organic compounds	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters	Trialkyl phosphates
+d8a7c2f489c77b107742d89a90ba7096	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+b394a77079b74bac5f72a9c3320058b2	CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)O)(CO)O	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Streptamine aminoglycosides
+5546963851c6b0f0b185726892ee7b2e	CCOC1=CC=CC=C1NC2=C(C=C(C=C2)[N+](=O)[O-])[N+](=O)[O-]	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Aniline and substituted anilines	Dinitroanilines
+2803b661df0847eb6087dc3fecc1c0fa	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+31d55184a3e695a53d74c0d606658577	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+db75348bf17d7e1827ced201d604fd23	CCCCCCC=CCC=CCC=CCCCCCCCCO	CSIFingerID	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Fatty alcohols
+aec3242558de5d1d6e4480ed7c673bf5	CCC(=CC1=[N+](C2=C(O1)C=CC(=C2)C3=CC=CC=C3)C)C=C4N(C5=C(O4)C=CC(=C5)C6=CC=CC=C6)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+9bd1c21c7d6c7f881fda334545158df1	CC(=O)NCCN1CCC2CN(CCC2CC1=O)C(=O)CCC(=O)O	CSIFingerID	Organic compounds	Organoheterocyclic compounds	Piperidines	N-acylpiperidines	N-acylpiperidines
+ddab02a78a21523630eeadbdb6f2df53	COC1=CC(=CC(=C1OC)OC)NC(=O)N2CCCO2	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+792d482e1603901a40b4fc8e5a39e309	CC(=O)OCOC(=O)CN(CC(=O)OCOC(=O)C)C1=CC(=CC=C1)OC	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Tetracarboxylic acids and derivatives	Tetracarboxylic acids and derivatives
+48d533457182cf37fefbe0eccc6370cd	CCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Nitrobenzenes	Nitrophenyl ethers
+56a2e3facead91fffcf31dc7f8f1fa93	C1CC(N(C1)C(=O)C(CC(=O)O)N)C(=O)NC(CC2=CC=CC=C2)C(=O)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Oligopeptides
+78640bc443011a562fac6913243fee61	C(C1C(C(C(C(O1)OC(CC(=O)C(=O)O)C(C(C(CO)O)O)O)N)O)O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+5ee190ed330717c4a1b357163fc2ff6f	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+b01a71b94a5275a92a815babfb05b506	CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CC3=CC=CC=C3CC2C(=O)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Dipeptides
+fd09f3bcbb086c79b4d1243aefee40e0	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+380f2e9d54af3c7fd8090503d65306e7	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+8e3b4c46544d3ace61ed495b6f381464	CC(C)CCCCCCCCCCCC(C(CS(=O)(=O)O)NC(=O)CCCCCCCCCCCC(C)C)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Organic sulfonic acids and derivatives	Organosulfonic acids and derivatives	Organosulfonic acids
+f5ac29b7a636823436ab6c2963a874d1	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+eb7eacb05232f21178e81631063006b9	C1=CC=C(C=C1)COC(=O)NC(CCC(=O)N)C(=O)OC2=CC=C(C=C2)[N+](=O)[O-]	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+5268086404e1106c712345726e894f06	C1CC(=NC#N)N(C1)CC(=O)NC=NNC2=C(C=C(C=C2)[N+](=O)[O-])[N+](=O)[O-]	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+9135b9c4745d91fdf22b1792a9f7823d	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+c2f46b211c18980df4af0d11cda5eadc	CC(C(=O)OC)NC(=O)CN1C=NC2=CC(=C(C=C2C1=O)OC)OC	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Peptides
+258d835a10d9c7672cbc055dc882d683	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+965c869e6494d6aa9573bc46b38b0863	C1=CC=C(C=C1)CC(CN(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+d23b68d9eee3bed1341715f6df1628cc	C1COCCN1CC(CN2CCOCC2)NC(=O)C3=CC(=CC(=C3)OC4C(C(C(C(O4)CO)O)O)O)[N+](=O)[O-]	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Phenolic glycosides
+31ed1d03be907717199d50b9a58046d3	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+19a1c46bcf07a0eab8525e09a1844112	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+bee2c9aa927974a5845c9a4a2b7ebe77	CCCCCCCCC=CCCCCCCCC(=O)NCC	CSIFingerID	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty amides	N-acyl amines
+4f7fbe4848d84527f943e630ece80f51	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+395a6718d9bc2fc3c78ca504e45cc56a	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+fe828de89def1061fe1331b2a4b39c11	CCOC(=O)C1=C(OC2=C1C=C(C=C2[N+](=O)[O-])[N+](=O)[O-])C(C)C	CSIFingerID	Organic compounds	Organoheterocyclic compounds	Benzofurans	unclassified	Benzofurans
+46eae22b0f5df3d9eb1c1b6b4d0979ed	C1=NC(=C(N1C2C(C(C(O2)CO)O)O)N)NC(=O)O	CSIFingerID	Organic compounds	"Nucleosides, nucleotides, and analogues"	Imidazole ribonucleosides and ribonucleotides	unclassified	Imidazole ribonucleosides and ribonucleotides
+aa316b1ee29ca229d3b6e3baa3caada1	C1=CC(=C(C=C1[N+](=O)[O-])OCCO)OCCO	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Nitrobenzenes	Nitrophenyl ethers
+a5b2419d367b1b532eaaa6468ac875b2	CC(C(=O)NC(C)C(=O)O)NC(=O)C1CC(=O)N(C1)C2=CC=C(C=C2)OC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+556d91e7b33fd7c4952b60195f6f1c6e	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+f45b2788b3aee8e886b774781aed255c	CC(=O)OCC1=C([N+](=O)C2=CC=CC=C2N1[O-])COC(=O)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+bef2314c96695b0702209b5cf9521182	COC(=O)C1=NC=CC(=C1)C(=O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+be2721ebca88dc5f0b935702dc065cc7	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+2cb9fbacc5946fa230b27bfbe5abb9a1	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+6393bd2a0e1fcff21daabf209a453e2d	C1=CC=C(C=C1)CC(C(=O)NC(CC(=O)O)C(=O)NC(CCCCN)C(=O)O)N	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Oligopeptides
+0abdb5e26045c78f084f4bf2713cbf33	CCOC1=CC=C(C=C1)NC(=O)NC(=O)COC2=CC=C(C=C2)C=NN3C=NN=C3	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+0b820f96dda41afd6d433a7b1234de94	CCCNC(=O)CNC(=O)COC(=O)C1=C(C=CC(=C1)[N+](=O)[O-])N(C)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+6de8cf623b5f406ed64ee1246b1be4b4	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+92b48f8902a01a8e9bd724ceeabc8af9	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+91a41add89cc1956ef72b139fc0dc36a	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+b65ce84f223f08d06700c147ce8832f2	CC1=C(C=CC(=C1)C2=CC(=C(C=C2)NC(=O)CC(=O)C)C)NC(=O)CC(=O)C	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Biphenyls and derivatives	Biphenyls and derivatives
+557c5907122a1325bd3ac1edb14efe38	C1CN(CC2=CC=CC=C21)C(=NOC3C(C(C(C(O3)C(=O)O)O)O)O)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+fbfad8277b30bdc1106985ba329f6688	CCCC1=CC(=O)OC2=C1C=CC(=C2C)OC(=O)C(CCC)NC(=O)OC(C)(C)C	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Alpha amino acid esters
+11725fa1ccba01e0b421521a8278c4e9	CCCCCC=CCC=CCC=CCCCCCCC(=O)OC(CO)CO	CSIFingerID	Organic compounds	Lipids and lipid-like molecules	Endocannabinoids	unclassified	Endocannabinoids
+63ecc85e440b61b3115b0a1c539978a1	CC(=C(C#N)C(=O)OCC(C(C(C(COC(=O)C(=C(C)C)C#N)O)O)O)O)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+100e039fcf15e05226be0a807cbcc627	CCC(=O)NC(CCC(=O)NC1CCCNC1=O)C(=O)OCC	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Glutamine and derivatives
+49657fd0f66dc0c9fadb7a76a4c4438d	CC(C)C(C(=O)O)NC(=O)CN1C=NC2=CC(=C(C=C2C1=O)OC)OC	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Peptides
+67b469c82d644c5f5b0eafdb81649fd3	CCOP(=S)(OCC)OC1=CC=C(C=C1)C=NOC(=O)N(C)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+cdaba843ddabb1a7d9df4a83524dbc5a	CNC(=O)CN(C)C(=O)COC(=O)C1=C(C=CC(=C1)[N+](=O)[O-])N(C)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+93092a331bfaef238235df70f700accb	CC(C(=O)N1CCCC1C(=O)NC(C)C(=O)O)NC(=O)C	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Peptides
+23535f66a867a6ccd6da626a0f31dd5c	CNC(=O)CN(C)C(=O)COC(=O)C1=C(C=CC(=C1)[N+](=O)[O-])N(C)C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+c12a7b0b4974a6cdaae3d7530fc0cd41	CCOC1=CC=CC=C1NC2=C(C=C(C=C2)[N+](=O)[O-])[N+](=O)[O-]	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Aniline and substituted anilines	Dinitroanilines
+cd21fbcfd823ac35c94651f7d629befd	C1CC(=O)N(C1=O)OC(=O)CCCCCCC(=O)ON2C(=O)CCC2=O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	Dicarboxylic acids and derivatives
+29d9a136c40bdbb509e14f268488370f	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+9c2d8a17c717cc793fe7af5d37951703	CCOC(=O)CCC(C(=O)OCC)NC(=O)C1=CC=C(C=C1)[N+](=O)[O-]	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+3ce427fa47c24e12eef69c9fd86191e4	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+ce0a46308749a783946f1f1b1980b0db	CC(=O)NC1COC(C(C1OC(=O)C)OC(=O)C)OC	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides
+51dc99c17003ba96c565497f74b8f0c3	CC(=O)C1=NC(=C(C2=C1NC3=C2C=CC=C3OC4C(C(C(C(O4)CO)O)O)O)O)C(=O)N	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Phenolic glycosides
+c0912bf03f31cfacf07ce3462cb611c3	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+9458b7dad37c46ef77432c07caaaff8a	CCOC(=O)CCC(C(=O)OCC)NC(=O)C1=CC=C(C=C1)[N+](=O)[O-]	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+2160a557aebea67b49d2aa57a5e6902f	C1COCCN1CC(CN2CCOCC2)NC(=O)C3=CC(=CC(=C3)OC4C(C(C(C(O4)CO)O)O)O)[N+](=O)[O-]	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Phenolic glycosides
+bcc9e067bb7eee3f617966cd1b2ae742	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+2a4811d4964e4798ff7257e923c29999	CC=C(C)C(=O)OC1CC(CC2C1(CCC3(C2=CCC4C3(CCC5C4(CCC(=O)C5(C)CO)C)C)C)C(=O)O)(C)C	CSIFingerID	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Triterpenoids	Triterpenoids
+65f8c08744d226a31ae67881eb1e898d	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+deac0311f08ab572edf5c03a072cc470	CCC(C)C(C(=O)O)NC(=O)C(CO)NC(=O)C(CC1=CNC2=CC=CC=C21)NC(=O)C(CC(=O)O)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+b09067de9452930758fee710fad8e9d7	CCOC(=O)CCC(C(=O)OCC)NC(=O)C1=CC=C(C=C1)[N+](=O)[O-]	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+14530046d9e990a2f0fa52bc532003ad	CCOC1=CC(=O)N(C(=O)N1CC2=CC(=C(C=C2)OC)[N+](=O)[O-])C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+9319d05e7cc994d94cd1fa91fe58612c	C1=CC(=CC=C1CC(C(=O)NC(CC2=CN=CN2)C(=O)O)NC(=O)C(CCC(=O)N)N)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Oligopeptides
+5104685e3547f7889857673344d304ac	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+0a1775972227f8203c8b7601b5ee5af7	C1=CC(=CC=C1C(=O)NCC(=O)O)N=NC2=CC(=C(C=C2)O)C(=O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+85da9063066716b3246cd0ad4f665486	CC=CCCCCC(=O)C(C)C(=O)N1CCCC1CO	CSIFingerID	Organic compounds	Organoheterocyclic compounds	Pyrrolidines	N-acylpyrrolidines	N-acylpyrrolidines
+2d392ae3b96f626203ee9f01d24191d5	CCCC(=O)NC1C(C(C(OC1NOC(=O)NC2=CC=CC=C2)C=O)O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+4823eac7ade162ce9408f4531787234a	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+d08a6d60f19fa3f79bb2ed9b35026595	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+285c246210326467cebf973e39de4c4b	C1CCC(C1)NC2=C3C(=NC=N2)N(C=N3)C4C(C(C(O4)CO)O)O	CSIFingerID	Organic compounds	"Nucleosides, nucleotides, and analogues"	Purine nucleosides	unclassified	Purine nucleosides
+c456a2fc832afed8b60a9dd0c155c5be	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+701e711444ea753c6fb81dd000808050	CCC(CC)C(=O)NC1C(C(C(OC1NOC(=O)NC2=CC=CC=C2)CO)O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+c5ef917a072bdc88098f92d6e350853f	CCOC1=CC(=O)N(C(=O)N1CC2=CC(=C(C=C2)OC)[N+](=O)[O-])C	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+bc37094e8567503408d97a79b5433028	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+d6861067b48f2d01275503b2c16560ba	C(C1C(C(C(O1)N2C3=C(C(=O)NC(=N3)N)NC2=O)O)O)O	CSIFingerID	Organic compounds	"Nucleosides, nucleotides, and analogues"	Purine nucleosides	unclassified	Purine nucleosides
+d9b724b50637a3f56b0cb6c95394f479	CCCCCCCCCCCCCCCC(=O)NCCNC(=O)CCCCCCCCCCCCCCC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+92a69246923fa2c997c515b0b357e8a0	CN1C(=O)C=C(N(C1=O)CC2=CC(=C(C=C2)OC)[N+](=O)[O-])OC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+e24915f872b88560d3125baa84296d23	CCC=CCCOC1C(C(C(C(O1)CO)O)OC2C(C(C(C(O2)CO)O)O)O)OC3C(C(C(CO3)O)O)O	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Oligosaccharides
+2055eb26eb5fe3d4fac2d9b51366bb0d	CCC(C)C(C(=O)O)NC(=O)C(CO)NC(=O)C(CC1=CNC2=CC=CC=C21)NC(=O)C(CC(=O)O)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+67f85d806ac0501ddf2ab5a6e6a8a1ec	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+55a12fedf271f6ca56a10005e549282f	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+c78e804b52ac7b8857b2c5da1df8d243	CCCCCC=CCC=CCCCCCCCC(=O)NCC(C)C	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids	Carboximidic acids
+376e40d97ea420be2d8a068ae67dd841	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+bcf4065e27a7ff738f4a28c9769944ea	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+243613790fd8a0b13a6e0e96836a7e49	CC(C(=O)NC(C)C(=O)O)NC(=O)C1CC(=O)N(C1)C2=CC=C(C=C2)OC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+6c2df82dc9f7d95d2fa26f981a6802fb	CC(=O)NC1=C2C(=CC=C1)N(N=N2)C3C(C(C(C(O3)CO)O)O)O	CSIFingerID	Organic compounds	"Nucleosides, nucleotides, and analogues"	Nucleoside and nucleotide analogues	1-pyranosylbenzotriazoles	1-pyranosylbenzotriazoles
+0aeec48b8fb67093bcb47a844c91d0d4	CNC1=NC(=C2C(=N1)N(C=N2)C3CC(C(O3)COP(=O)(O)O)O)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+fdda10f16b7194164d3afccfe3272f53	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+4ca05e440fbf904bcec6acaa6419e3a3	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+6582092bffb7e5b250c16242d0c0f297	COC1C(C(OC1N2C=CC(=CC2=O)O)CO)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+e8e4563c66c74f86c0d84c1cf2148712	CC(C)C(C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(CO)C=O)NC(=O)C(C)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+16abf950398f5c26d7a83e2c47c35c20	CCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Nitrobenzenes	Nitrophenyl ethers
+92878adf27a12a3ddbe6fceb4e3275f6	CC(C)C(C(=O)O)NC(=O)CN1C=NC2=CC(=C(C=C2C1=O)OC)OC	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Peptides
+a0032094ba7a48ae0550c95116ddc542	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+e11fdf527f03f7ec134b433adbec83a4	CC(C(=O)NC(C)C(=O)NC(C)C(=O)NC(CC1=CC=C(C=C1)O)C(=O)O)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+947a5d4c7ad27a42b75192942695c109	CCC(=O)NC(CCC(=O)NC1CCCNC1=O)C(=O)OCC	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Glutamine and derivatives
+3dcb4b820f0c54ac3b4934c275a07285	C1=C(N=C2C(=O)NC(=NC2=N1)N)C(C(COC3C(C(C(C(O3)CO)O)O)O)O)O	CSIFingerID	Organic compounds	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives	Biopterins and derivatives
+ab317db3925865cddca3f29dfa80f665	CCCCCC=CCC=CCCCCCCCC(=O)NCC(C)C	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids	Carboximidic acids
+ebb7b5d58b0bff49fa92e43d879b24c9	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+e2e15c0e23ff661c7aeb2e444db8f45b	CN1C(=O)C=C(N(C1=O)CC2=CC(=C(C=C2)OC)[N+](=O)[O-])OC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+c619eb858d1b5afd0ac936c3015e5f80	CC(C(C(C)O)(C(=O)OCC1=C(C=CC(=C1)O)NC(=O)CCC(C(=O)O)N)O)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Glutamine and derivatives
+1e3c86d80976aef669c18da7b4a5e1ef	CC(C(=O)NC(C)C(=O)O)NC(=O)C1=CC2=CC(=C(C(=C2N1C)OC)OC)OC	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Dipeptides
+f8c9d211480e3433459b40479a7e08d1	C=CC1C2CC(OC(=O)C2=COC1OC3C(C(C(C(O3)CO)O)O)O)C#N	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	O-glycosyl compounds
+0eca354b66484f0c52da116f1ebe0bfa	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+88e66594808c68a86420dd8b72302c3c	C1=C(C=NC=C1C(=O)NCCO[N+](=O)[O-])C(=O)NCCO[N+](=O)[O-]	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+95235d1f076982d8fe7996450249bad7	C(C1C(C(C(C(O1)OC2=C(N=C(NC2=O)N)N)O)O)O)O	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	O-glycosyl compounds
+2dc5a0dbfb6613825e45889bd6bfda05	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+f3c8a0064b1e822efb6637b3fda8cd52	CCCCCCCCCCCCCCCC(=O)NCCC[N+](C)(C)CC(=O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+99df9369adfdd9d4b907bdd11bdc0e5f	CC(=O)NC1COC(C(C1OC(=O)C)OC(=O)C)OC	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides
+4f927c7366d53faf412833b101cea313	COC(=O)C1=NC=CC(=C1)C(=O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+ecc2e4e4f7de67f159627578df34d15d	COC1=CC(=C(C=C1N2CCOCC2)OC)[N+](=O)[O-]	CSIFingerID	Organic compounds	Organoheterocyclic compounds	Oxazinanes	Morpholines	Phenylmorpholines
+a77bce6df3593ff2cb22310b85096033	CC1=CC(=C(C=C1)OC)NC(=O)C(=O)NNC(=O)C2=CC=CO2	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Alpha amino acid amides
+cf2bdc684a33337cad1f52d6a93d1379	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+7262c184116681974d7c727d1185c0ce	C1CN(CC2=CC=CC=C21)C(=NOC3C(C(C(C(O3)C(=O)O)O)O)O)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+2acf6baf2e29c18e8fb33ed9007dbcc7	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+54f1d056a621d6e6a69199326f1ac0af	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+33cdb2d178b58cef3aa31442c484bdeb	COC1=C(C=C2C(=C1)C(=O)N(C=N2)CC(=O)NCCC(=O)O)OC	CSIFingerID	Organic compounds	Organic acids and derivatives	Peptidomimetics	Hybrid peptides	Hybrid peptides
+9110148c75a18ea573b3bc9904d05d7a	C1=CC(=C(C=C1[N+](=O)[O-])OCCO)OCCO	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Nitrobenzenes	Nitrophenyl ethers
+d78e7e3e739ff90bb23f877c1f81a114	CCCNC(=O)CCCC1CCC2(C1(C(CC3C2C(CC4(C3(CCC(C4)O)C)C)O)O)C)C	CSIFingerID	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids	7-hydroxysteroids
+f53e322e93c971e1fffb599a49f45769	C(C(C(C(CO)O)O)O)NC1=C(C(=O)NC(=O)N1)N=O	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Pentoses
+4a492bbd72d7464be900afeed3ffd4aa	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+6438276173cd7879f7052ec547b7bba3	C1C2CN(CC1C3=CC=C(C(=O)N3C2)[N+](=O)[O-])C(=O)CN4C(=O)C5=CC=CC=C5NC4=O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+6e6d0d283f8794d158e9ad7f09960b18	C1=CC(=CC=C1CC(C=O)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CC3=CC=C(C=C3)O)N)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+d9a7074f2c9a6835f091a5c5b5084e6c	CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=C(O2)[N+](=O)[O-])C(=O)OC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+0b21d80d1f89bc30d915fff4b7741731	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+d581b1c9aaf1a1e3fb9e47820af732eb	COC(=O)C1=NC=CC(=C1)C(=O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+cda0258fe9e46292b58046ac837083c2	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+e4b2d0bf5cd2e2db288832c50a640cfb	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+cb19c99d6d857520f32a99de4676baa5	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+e15ec9eb089df2cdaa7021b948f08452	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+33f990efec41e9a54193446b0ec2e0b6	CC(CN=CC1=C(C=CC(=C1)OC)O)(CN=CC2=C(C=CC(=C2)OC)O)CN=CC3=C(C=CC(=C3)OC)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+fc69caa4e538a10f9909125e58dcf3e7	C(C1C(C(C(C(O1)OC2=C(N=C(NC2=O)N)N)O)O)O)O	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	O-glycosyl compounds
+034640392fd761ca55a00036940c73c1	C1=CC(=CN=C1)COC2C(C(C(C(O2)CO)O)O)O	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	O-glycosyl compounds
+7a873bd19ccbedc33503267469ecf5ea	CC(C)CCCCCCCC=CC(=O)NO	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives	Hydroxamic acids
+caf0612ded126d195c789180a7de2c3d	CC(C(=O)NC(C)C(=O)NC(C)C(=O)NC(CC1=CC=C(C=C1)O)C(=O)O)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+9a59bd0e9af8ea1de6716142351b7982	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+6bb4c622de42f5a91520ce0cfc2b56a8	CC(C)CCCCCCCC=CC(=O)NO	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives	Hydroxamic acids
+c265f6ec7200ed1f03f1501c3ae9604b	CC(C)OC(=O)NCCOC(=O)OCCNC(=O)OC(C)C	CSIFingerID	Organic compounds	Organic acids and derivatives	Organic carbonic acids and derivatives	Carbonic acid diesters	Carbonic acid diesters
+b54d0f2c1700cde34216567c74b49403	CC(C)C(C(=O)O)NC(=O)C1=CC=C(C=C1)N(C)CC2=CN=C3C(=N2)C(=NC(=N3)N)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+bf20b4762ad373cacb36a35fba23dcd4	C=C(CO)C(C#N)OC1C(C(C(C(O1)CO)O)O)O	CSIFingerID	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Cyanogenic glycosides
+3b69b863dfbd59dde298719e7f978281	CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=C(O2)[N+](=O)[O-])C(=O)OC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+1925d431b9d4df59043f52983e747671	CC(C(=O)OC)NC(=O)CN1C=NC2=CC(=C(C=C2C1=O)OC)OC	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Peptides
+8fb522227a33af70c804ebccb2e0aa99	C(CCCN1C(=O)N(C(=O)OC1=O)CCCCCCN=C=O)CCN=C=O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+6fba97dd3b704da519776c439035821b	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+84c0fcf56a322a6a78e8b758a260ef91	C1=CC=C2C(=C1)C(=C=C=C3C4=CC=CC=C4C(=O)C5=CC=CC=C53)C6=CC=CC=C6C2=O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+72287196e85710d54e525ec581f86551	C1CN(CC2=CC=CC=C21)C(=NOC3C(C(C(C(O3)C(=O)O)O)O)O)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+67bb862afaef8edd652dce5d5aa2c380	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+4747335cf6e50932897fcbb0c5fc0516	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+01bd3fe94455ce451ccbe6fc57069261	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+550df12bc561cff4b34e144d5fe55b7f	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+086585ab0654c55c3536a3b17977f340	C1=CC=C(C=C1)COC(=O)NC(CCC(=O)N)C(=O)OC2=CC=C(C=C2)[N+](=O)[O-]	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+5dc03b7daeff725048cba59d46f2c2a8	CN1C(=O)C=C(N(C1=O)CC2=CC(=C(C=C2)OC)[N+](=O)[O-])OC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+c2789cc390cd77132790439ae7102061	CN1C(=O)C=C(N(C1=O)CC2=CC(=C(C=C2)OC)[N+](=O)[O-])OC	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+9d0aa7542990f0c3061ec3fd7dac6354	CC1=CC=C(C=C1)C2OCC3C(O2)C(OC(O3)C4=CC=C(C=C4)C)C(CO)O	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Toluenes	Toluenes
+db72295f64e8611d108556790d08c723	C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CN(CCC(C(=O)O)N)CCN=C(N)N)O)O)N	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+adccf260fe656dad59e86a6dc8e50f6f	COC1=CC(=C(C=C1N2CCOCC2)OC)[N+](=O)[O-]	CSIFingerID	Organic compounds	Organoheterocyclic compounds	Oxazinanes	Morpholines	Phenylmorpholines
+5a9ee2ed397c2b782c08eae71112d95e	COC1=C(C=C(C(=C1)C#N)[N+](=O)[O-])OC	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Nitrobenzenes	Nitrophenyl ethers
+1b9b2c29f601cda27b52316d150b10f1	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+ca776f96c9d26b00009fc9f02cf00c44	CCC(CC)C(=O)NC1C(C(C(OC1NOC(=O)NC2=CC=CC=C2)CO)O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+a003788fdabb27a0c255d291ff751a5c	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+b49a1fdc282cd8559dbe092845a63979	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
+d1282e2f4ff39ec47248bfc92faf3f66	CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CC3=CC=CC=C3CC2C(=O)O	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Dipeptides
+7e8b98d111e47c2dc625166be2f73bf9	CN1C2=C(C(=O)N(C1=O)C)N(C(=N2)N3CCOCC3)CCCNCC(C4=CC(=C(C=C4)O)O)O	CSIFingerID	unclassified	unclassified	unclassified	unclassified	unclassified
+3ee5eefceef67d849cd10fe0309a23a2	C1CCC(C(C1)C(=O)NC2=CC=CC=C2C(=O)NCCC3=CC=CC=C3)C(=O)O	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Acylaminobenzoic acid and derivatives
