@@ -1,4 +1,4 @@
-coralID	acclimation	genotype	cerID	genoID
+#SampleID	acclimation	genotype	cerID	genoID
 2BY3	4	BY	100	100S46
 2BY3	4	BY	100	100S86
 0BY3	3	BY	101	101S28
