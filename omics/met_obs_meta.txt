@@ -1,4 +1,4 @@
-otuID	smiles	structure_source	kingdom	superclass	class	subclass	direct_parent
+#OTUID	smiles	structure_source	kingdom	superclass	class	subclass	direct_parent
 6cb9877dd737e2c943bf72ba0f114e30	CCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC	CSIFingerID	Organic compounds	Benzenoids	Benzene and substituted derivatives	Nitrobenzenes	Nitrophenyl ethers
 35c908e555dfb3ab221f68183fd21d5b	missing	missing	unclassified	unclassified	unclassified	unclassified	unclassified
 5d4fc8b6a0726b0f1257921addf300c1	CC1=CC(=C(C=C1)OC)NC(=O)C(=O)NNC(=O)C2=CC=CO2	CSIFingerID	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	"Amino acids, peptides, and analogues"	Alpha amino acid amides
