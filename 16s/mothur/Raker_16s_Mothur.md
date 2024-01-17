@@ -1,6 +1,6 @@
 # __*Orbicella faveolata* 16S microbiome analysis__
 #### Author: Cassie Raker
-#### Last updated: December 29, 2023
+#### Last updated: January 17, 2024
 
 #### Sequencing performed by Genohub
 #### Data uploaded and analyzed on Andromeda
@@ -1026,21 +1026,22 @@ ofav.trim.contigs.good.unique.good.filter.unique.precluster.pick.pick.opti_mcc.0
 ofav.trim.contigs.good.unique.good.filter.unique.precluster.pick.pick.opti_mcc.0.03.cons.tax.summary
 ```
 
-The `rename` function at the end will rename our files to something more useful. We now have a "taxonomy" file and a "shared" file.  
+The `rename` function at the end will rename our files to something more useful. We now have a "taxonomy" file and a "shared" file.  I also renamed the longer files to be more managable.
 
 The files we now care about are:
 ```
-list = ofav.trim.contigs.good.unique.good.filter.unique.precluster.pick.pick.opti_mcc.list
+list = ofav.opti_mcc.list
 shared = ofav.opti_mcc.shared
 taxonomy = ofav.taxonomy
 
-constaxonomy = ofav.trim.contigs.good.unique.good.filter.unique.precluster.pick.pick.opti_mcc.0.03.cons.taxonomy
-count = ofav.trim.contigs.good.unique.good.filter.unique.precluster.denovo.vsearch.pick.pick.count_table
+constaxonomy = ofav.pick.taxonomy
+count = ofav.count_table
 ```
 
 *Now we have classified taxonomic data and we are ready to move onto subsampling and calculating statistics*  
 
-***_START HERE NEXT TIME_***
+*At this stage I also reorganized my files into subdirectories, with only the files I'm actively working with in the main directory.*
+
 
 ### <a name="Subsample"></a> **11. Subsampling for Sequencing Depth**   
 
@@ -1053,6 +1054,106 @@ mothur
 ```
 
 This will open the interactive mothur terminal.  In order to use any bash commands like `nano`, you have to first `quit` in mothur. Once you want to return to mothur, use the `mothur` command.  
+
+#### Subsampling for sequencing depth
+
+As we can see in rarefaction curves, we know that OTU discovery is a function of sequencing depth. Therefore, we need to account for sequencing depth in our analysis.  
+
+With the count table above, we see that the sample with the smallest number of groups is 118. To account for uneven sampling depth, we will need to rarify our samples. We can do this with the `sub.sample` command that will automatically use the smallest group size or we can manually set a cut off. If we set a threshold higher than the number of samples, those samples are removed from the group.  
+
+```
+sub.sample(shared=ofav.opti_mcc.shared, size=10)
+```
+
+Again, I set the threshold for a very low number, since the sequencing depth for these samples was so low. This still eliminated 32 samples.
+
+Output files:
+```
+ofav.opti_mcc.0.03.subsample.shared
+```
+
+#### Subsampling the sample set  
+
+We are going to generate a rarefaction curve and subsample to 10 sequences. Calculating the observed number of OTUs using the Sobs metric (observed number of taxa) with a freq=100 to output the data for every 100 sequences samples - if you did every single sample that would be way too much data to output.  
+
+```
+rarefaction.single(shared=ofav.opti_mcc.shared, calc=sobs, freq=100)
+```
+
+Output File:
+```
+ofav.opti_mcc.groups.rarefaction
+```
+We will want to keep this rarefaction file for our final output.  
+
+You can look at this file with `nano ofav.opti_mcc.groups.rarefaction`. It contains the number of OTUs detected for every 100 sequences for each sample. Remember OTU = 0.03 cut off here, so that is the OTU distinction. Series will be trucated after the number of sequences available in the sample.  
+
+Next, rarefy the data to the minimum number of sequences, then the next command will rarefy and pull out that many sequences from each sample. If you want to sample a specific number, use subsample=#. You would want to do this if you have a super small sequence number in one group and you dont want to truncate the data for all groups by that much. If you leave subsample=T, mothur will calculate to the minimum size. Subsamples 1000 times and calculates the metrics we want with the number of otus. Sampling is random.   
+
+All of the available metric calculations (calc) are [found here](https://mothur.org/wiki/calculators/).  
+
+I am going to use subsample=10 to remove the low sequence count stages.  
+
+```
+summary.single(shared=ofav.opti_mcc.shared, calc=nseqs-sobs-chao-shannon-invsimpson, subsample=10)
+```
+
+In a new Andromeda window (outside mothur).  
+```
+less mcap.opti_mcc.groups.ave-std.summary
+```
+
+Open this file to view statistics for each sample. The method column has ave (average of each of the metrics across the 1000 iteractions) or std (this is the std deviation of the average calculation).  
+
+Here, I will produce datasets both with and without subsampling. We will use the subsampled data for our analysis and we can explore/describe the data from the samples below the subsampling threshold.
+
+
+### <a name="Statistics"></a> **12. Calculate Ecological Statistics**  
+
+**Alpha diversity** = diversity within a sample
+
+**Beta diversity** = diversity between samples
+
+We will calculate beta diversity metrics which will then be used for ecological analyses.  
+
+#### Calculate Beta Diversity  
+
+We will use the `dist.shared` function to calculate distances between samples. Here we are going to use Bray-Curtis distances. Many different metrics can be used (e.g., Theta YC). All of the available metric calculations (calc) are [found here](https://mothur.org/wiki/calculators/).  
+
+We can use this function with or without `subsample=10` or `subsample=T`. We will use the bray-curtis distances for this calculation. This step is important for generating files that we will use later in R.
+
+Run without subsampling:
+
+```
+dist.shared(shared=ofav.opti_mcc.shared, calc=braycurtis)
+```
+
+Output File:
+```
+ofav.opti_mcc.braycurtis.0.03.lt.dist
+```
+If we run a command with subsample=10, then the following files are output:
+
+```
+dist.shared(shared=ofav.opti_mcc.shared, calc=braycurtis, subsample=10)
+```
+Output File Names:
+```
+ofav.opti_mcc.braycurtis.0.03.lt.ave.dist
+ofav.opti_mcc.braycurtis.0.03.lt.std.dist
+```
+We have average and std files because the function is run over 1000 iterations generating ave and std.    
+
+We can use these different files to compare a non-subset to a subset dataset. These comparison files will be:    
+
+- No subsampling `ofav.opti_mcc.braycurtis.0.03.lt.dist`   
+- Subsampled `ofav.opti_mcc.braycurtis.0.03.lt.ave.dist`     
+
+*After this point, analyses can be run in R.*    
+
+
+
+
 
 
 
